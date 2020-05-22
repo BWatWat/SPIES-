@@ -23,5 +23,5 @@ var locations = [
 [ "Ghost Town", "Ghost", "Tour Guide", "Investigator", "Possed Tourist", "Tourist", "Curious Kid", "Worrisome Mom", "Laid Back Dad", "Clown" ],
 [ "Hell", "Lucifer", "Demon", "Succubus", "Imp", "Tortured Soul", "Torturer", "Fiend", "Clown" ], 
 [ "Clown Car", "Clown", "Clown", "Clown", "Clown", "Clown", "Clown", "Clown" ],
-[ "YOU ARE A BALL SACK", "","","","","","","","" ]
+[ "", "","","","","","","","" ]
 ];
